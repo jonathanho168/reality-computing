@@ -183,3 +183,15 @@ Received Import Request.
   path: Assets/Shiny.mat
   artifactKey: Guid(5488a68133bab4a4388351324fe107bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Shiny.mat using Guid(5488a68133bab4a4388351324fe107bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1ed8d83d33c06514a768cd63b5ba120') in 1.028044 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 320.931352 seconds.
+  path: Assets/Shiny.mat
+  artifactKey: Guid(5488a68133bab4a4388351324fe107bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shiny.mat using Guid(5488a68133bab4a4388351324fe107bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f7c9e2bfbc1094a1a03374095abd0b8') in 0.010691 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 115.742673 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79842766b460edbeab6a34051e857a80') in 0.002321 seconds 
