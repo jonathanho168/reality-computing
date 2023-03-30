@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class BoxMaker : MonoBehaviour
 {
+    public GameObject myBox;
+
     // Start is called before the first frame update
     void Start()
     {
