@@ -737,3 +737,9 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 110.779102 seconds.
+  path: Assets/BoxMaker.cs
+  artifactKey: Guid(e1980ea19dfc74332a22349a823e913e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BoxMaker.cs using Guid(e1980ea19dfc74332a22349a823e913e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23248760163392a930219d3afabe51e9') in 0.246801 seconds 
