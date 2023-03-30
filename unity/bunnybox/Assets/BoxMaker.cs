@@ -13,7 +13,7 @@ public class BoxMaker : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         Instantiate(myBox);
     }
