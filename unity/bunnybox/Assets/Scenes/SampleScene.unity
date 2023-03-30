@@ -314,7 +314,7 @@ GameObject:
   - component: {fileID: 1211254454}
   - component: {fileID: 1211254453}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: BunnyBox
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
