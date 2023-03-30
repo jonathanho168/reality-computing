@@ -9,12 +9,12 @@ public class BoxMaker : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Instantiate(myBox);
+        // Instantiate(myBox);
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        Instantiate(myBox);
     }
 }
