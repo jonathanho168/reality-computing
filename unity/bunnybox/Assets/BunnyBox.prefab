@@ -110,3 +110,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc1d8afdb874d4e81906372901434f92, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  bunnyPrefab: {fileID: 4244306672719535255, guid: ec2d5dfeb5f124abf92ad9ccea26d80a, type: 3}

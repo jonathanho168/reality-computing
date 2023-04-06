@@ -16,7 +16,7 @@ public class BunnyMaker : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetKey(KeyCode.B)) {
+        if(Input.GetKeyDown(KeyCode.B)) {
             Instantiate(bunnyPrefab);
         }
     }
