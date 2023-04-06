@@ -17,7 +17,10 @@ public class BunnyMaker : MonoBehaviour
     void Update()
     {
         if(Input.GetKeyDown(KeyCode.B)) {
-            Instantiate(bunnyPrefab);
+            // Instantiate(bunnyPrefab);
+
+            // transform holds vector3
+            Instantiate(bunnyPrefab, transform.position, Quaternion.identity);
         }
     }
 }
