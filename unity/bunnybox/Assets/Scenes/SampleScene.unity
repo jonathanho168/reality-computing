@@ -333,6 +333,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4974147532995656524, guid: e6d798d3baf2e4035914236f03b70e4f, type: 3}
+      propertyPath: bunnyPrefab
+      value: 
+      objectReference: {fileID: 757964223}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e6d798d3baf2e4035914236f03b70e4f, type: 3}
 --- !u!1 &705507993
@@ -700,7 +704,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: -5025311537144886111, guid: ebe7e2a8dbfe0445b97d0ac8e9b29a78, type: 3}
+  - {fileID: 2100000, guid: e14b48760bb9949dea196124e2c80d27, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
