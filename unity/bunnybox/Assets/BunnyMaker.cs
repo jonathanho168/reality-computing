@@ -23,4 +23,8 @@ public class BunnyMaker : MonoBehaviour
             Instantiate(bunnyPrefab, transform.position, Quaternion.identity);
         }
     }
+
+    private void OnMouseDown() {
+        Instantiate(bunnyPrefab, transform.position, Quaternion.identity);
+    }
 }
