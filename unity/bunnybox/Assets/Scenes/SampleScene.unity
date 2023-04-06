@@ -232,6 +232,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BunnyBox
       objectReference: {fileID: 0}
+    - target: {fileID: 427448660948077766, guid: e6d798d3baf2e4035914236f03b70e4f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fee59cc6f1d814975bc8a172ba7ff66f, type: 2}
     - target: {fileID: 427448660948077768, guid: e6d798d3baf2e4035914236f03b70e4f, type: 3}
       propertyPath: m_RootOrder
       value: 5
