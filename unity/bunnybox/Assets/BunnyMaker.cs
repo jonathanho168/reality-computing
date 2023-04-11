@@ -7,10 +7,12 @@ public class BunnyMaker : MonoBehaviour
 
     public GameObject bunnyPrefab;
 
+    public Animator animator;
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        animator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -28,6 +30,7 @@ public class BunnyMaker : MonoBehaviour
 
     private void MakeABunny(int bunnyCount) {
 
+        animator.SetTrigger("Bounce");
         for (int x = 0; x < bunnyCount; x++) {
             // Make a bunny at the place
             Instantiate(bunnyPrefab, transform.position, Quaternion.identity);
