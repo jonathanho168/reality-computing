@@ -24,13 +24,14 @@ public class BunnyMaker : MonoBehaviour
     }
 
     private void OnMouseDown() {
-        // Instantiate(bunnyPrefab, transform.position, Quaternion.identity);
-        MakeABunny(10);
+
+        animator.SetTrigger("Bounce");
+        // MakeABunny(10);
     }
 
     private void MakeABunny(int bunnyCount) {
 
-        animator.SetTrigger("Bounce");
+
         for (int x = 0; x < bunnyCount; x++) {
             // Make a bunny at the place
             Instantiate(bunnyPrefab, transform.position, Quaternion.identity);
