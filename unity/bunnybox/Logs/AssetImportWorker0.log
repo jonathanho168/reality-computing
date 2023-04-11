@@ -873,3 +873,9 @@ Received Import Request.
   path: Assets/BunnyBox.prefab
   artifactKey: Guid(e6d798d3baf2e4035914236f03b70e4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/BunnyBox.prefab using Guid(e6d798d3baf2e4035914236f03b70e4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a83c12c3e872d79b7385cdd3d82d075d') in 0.046563 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 25.348772 seconds.
+  path: Assets/BunnyBox.prefab
+  artifactKey: Guid(e6d798d3baf2e4035914236f03b70e4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BunnyBox.prefab using Guid(e6d798d3baf2e4035914236f03b70e4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b80d07adc1a103551b9bf658ab3f0ef') in 0.016703 seconds 
