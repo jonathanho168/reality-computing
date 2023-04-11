@@ -17,22 +17,22 @@ public class BunnyMaker : MonoBehaviour
     void Update()
     {
         if(Input.GetKeyDown(KeyCode.B)) {
-            MakeABunny();
+            MakeABunny(1);
         }
     }
 
     private void OnMouseDown() {
         // Instantiate(bunnyPrefab, transform.position, Quaternion.identity);
-        MakeABunny();
+        MakeABunny(10);
     }
 
-    private void MakeABunny() {
+    private void MakeABunny(int bunnyCount) {
                     // Instantiate(bunnyPrefab);
 
             // Make a bunny at the place
             Instantiate(bunnyPrefab, transform.position, Quaternion.identity);
 
 
-            Debug.Log("I, "  + gameObject.name + " made a bunny...");
+            Debug.Log("I, ("  + gameObject.name + ") made a bunny...");
     }
 }
