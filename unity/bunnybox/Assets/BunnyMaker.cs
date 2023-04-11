@@ -32,7 +32,7 @@ public class BunnyMaker : MonoBehaviour
             // Make a bunny at the place
             Instantiate(bunnyPrefab, transform.position, Quaternion.identity);
 
-            Debug.Log("X = " + (x + 1))
+            Debug.Log("X = " + (x + 1));
         }
             
 
