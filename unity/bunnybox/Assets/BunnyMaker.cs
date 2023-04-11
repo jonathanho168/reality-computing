@@ -31,6 +31,8 @@ public class BunnyMaker : MonoBehaviour
         for (int x = 0; x < bunnyCount; x++) {
             // Make a bunny at the place
             Instantiate(bunnyPrefab, transform.position, Quaternion.identity);
+
+            Debug.Log("X = " + (x + 1))
         }
             
 
