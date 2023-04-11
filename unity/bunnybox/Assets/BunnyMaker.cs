@@ -29,7 +29,9 @@ public class BunnyMaker : MonoBehaviour
     private void MakeABunny() {
                     // Instantiate(bunnyPrefab);
 
-            // transform holds vector3
+            // Make a bunny at the place
             Instantiate(bunnyPrefab, transform.position, Quaternion.identity);
+
+            Debug.Log("I made a bunny...");
     }
 }
