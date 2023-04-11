@@ -230,7 +230,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 427448660948077764, guid: e6d798d3baf2e4035914236f03b70e4f, type: 3}
       propertyPath: m_Name
-      value: BunnyBox
+      value: LeftBox
       objectReference: {fileID: 0}
     - target: {fileID: 427448660948077768, guid: e6d798d3baf2e4035914236f03b70e4f, type: 3}
       propertyPath: m_RootOrder
@@ -287,7 +287,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 427448660948077764, guid: e6d798d3baf2e4035914236f03b70e4f, type: 3}
       propertyPath: m_Name
-      value: BunnyBox (1)
+      value: RightBox
       objectReference: {fileID: 0}
     - target: {fileID: 427448660948077768, guid: e6d798d3baf2e4035914236f03b70e4f, type: 3}
       propertyPath: m_RootOrder
