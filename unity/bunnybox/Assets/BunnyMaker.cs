@@ -27,11 +27,12 @@ public class BunnyMaker : MonoBehaviour
     }
 
     private void MakeABunny(int bunnyCount) {
-                    // Instantiate(bunnyPrefab);
 
+        for (int x = 0; x < bunnyCount; x++) {
             // Make a bunny at the place
             Instantiate(bunnyPrefab, transform.position, Quaternion.identity);
-
+        }
+            
 
             Debug.Log("I, ("  + gameObject.name + ") made a bunny...");
     }
