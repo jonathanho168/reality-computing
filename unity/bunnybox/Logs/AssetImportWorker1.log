@@ -739,3 +739,33 @@ Received Import Request.
   path: Assets/BunnyBox.prefab
   artifactKey: Guid(e6d798d3baf2e4035914236f03b70e4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/BunnyBox.prefab using Guid(e6d798d3baf2e4035914236f03b70e4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a775c1a43d9ae42aeabb75d790cf19bc') in 0.050153 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 451.089253 seconds.
+  path: Assets/Cartoon Game Sound 2.0/s_ef_ce_barrier.wav
+  artifactKey: Guid(56d176135168e4788b212b0059fee63b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Game Sound 2.0/s_ef_ce_barrier.wav using Guid(56d176135168e4788b212b0059fee63b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d2db8a433d89f3e961b0da0345b3505') in 1.134922 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/Cartoon Game Sound 2.0/s_ef_ce_yororo_e.wav
+  artifactKey: Guid(159652fe20de54484882d0914255f574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Game Sound 2.0/s_ef_ce_yororo_e.wav using Guid(159652fe20de54484882d0914255f574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1ca7f751c7edd4dcbfe1692dc072b49') in 0.010764 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Cartoon Game Sound 2.0/s_ef_ce_mine_s.wav
+  artifactKey: Guid(7a587bc83d1cb470e828ba6410f90a75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Game Sound 2.0/s_ef_ce_mine_s.wav using Guid(7a587bc83d1cb470e828ba6410f90a75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e07113eb4b80fd7e26b987fba55c090') in 0.012915 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Cartoon Game Sound 2.0/s_ef_cm_dm_umbrella_def3.wav
+  artifactKey: Guid(8c287f25bbea84c0588789c62f6fb47d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Game Sound 2.0/s_ef_cm_dm_umbrella_def3.wav using Guid(8c287f25bbea84c0588789c62f6fb47d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90082895e0ba05db7ab1d4a1d92fe88f') in 0.009684 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Cartoon Game Sound 2.0/s_ef_cm_dm_umbrella_open.wav
+  artifactKey: Guid(0d9225e24b48d46068659021771a1b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Game Sound 2.0/s_ef_cm_dm_umbrella_open.wav using Guid(0d9225e24b48d46068659021771a1b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90f1263bd51d251eb709dad40424f3f2') in 0.012411 seconds 
